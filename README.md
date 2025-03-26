@@ -10,7 +10,8 @@ Coding: Building personal projects and contributing to open-source.
 
 Problem-Solving: Developing efficient solutions with a focus on clean code.
 
-Interest in Machine Learning & AI
+**Interest in Machine Learning & AI**
+
 I'm particularly fascinated by machine learning and artificial intelligence. For my Bachelor's thesis, I developed a machine learning model trained on over a century of Ireland's energy consumption data. The goal was to predict future energy demands, accounting for factors like seasonal changes, immigration patterns, technological advancements, and evolving energy consumption habits. It was a challenging but rewarding experience that deepened my interest in leveraging data to create impactful, intelligent solutions.
 
 **Skills**

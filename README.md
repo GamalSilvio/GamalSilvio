@@ -1,4 +1,4 @@
-**Gamal Gullifa - Software Engineer in Progress**
+**Software Engineer in Progress**
 
 Hi! I'm Gamal Gullifa, an aspiring software engineer from Dublin, Ireland. With a strong background in technical support, training, and troubleshooting, I'm currently focused on expanding my software development skills. I spend a lot of my time learning new technologies and coding, always striving to grow as a developer.
 

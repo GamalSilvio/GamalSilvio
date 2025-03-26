@@ -3,6 +3,7 @@
 Hi! I'm Gamal Gullifa, an aspiring software engineer from Dublin, Ireland. With a strong background in technical support, training, and troubleshooting, I'm currently focused on expanding my software development skills. I spend a lot of my time learning new technologies and coding, always striving to grow as a developer.
 
 **What I'm Working On**
+
 Learning: Dedicating countless hours to mastering Python, Java, C#, JavaScript, and exploring AI and machine learning.
 
 Coding: Building personal projects and contributing to open-source.
